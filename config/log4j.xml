@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+
+<!-- http://logging.apache.org/log4j/docs/api/org/apache/log4j/PatternLayout.html -->
+
+<log4j:configuration debug="true">
+
+    <appender name="ASYNC_APPENDER" class="org.apache.log4j.AsyncAppender">
+        <appender-ref ref="FILE_APPENDER"/>
+        <appender-ref ref="CONSOLE_APPENDER"/>
+    </appender>
+
+    <appender name="CONSOLE_APPENDER" class="org.apache.log4j.ConsoleAppender">
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d{HH:mm:ss,SSS} [%c] %m%n"/>
+        </layout>
+    </appender>
+
+    <appender name="FILE_APPENDER" class="org.apache.log4j.DailyRollingFileAppender">
+        <param name="File" value="AYTO.log"/>
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d{HH:mm:ss,SSS} %-3p %m%n"/>
+        </layout>
+    </appender>
+    
+    <root>
+        <level value="INFO"/>
+        <appender-ref ref="ASYNC_APPENDER"/>
+    </root>
+    
+</log4j:configuration>

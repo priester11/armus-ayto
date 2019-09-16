@@ -1,0 +1,183 @@
+<Properties>
+	<Keys>Aasha Amber Basit Brandon Danny Jasmine Jenna Jonathan Justin Kai
+		Kari Kylie Max Nour Paige Remy
+	</Keys>
+	<TruthBooths>
+		<TruthBooth>
+			<Pair>Justin Nour</Pair>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Pair>Brandon Remy</Pair>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Pair>Jenna Kai</Pair>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Pair>Danny Jenna</Pair>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Pair>Kari Kylie</Pair>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Pair>Aasha Brandon</Pair>
+			<Result>Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Pair>Basit Jonathan</Pair>
+			<Result>Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Pair>Jasmine Jenna</Pair>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Pair>Paige Remy</Pair>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Pair>Amber Max</Pair>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Pair>Amber Kylie</Pair>
+			<Result>No Match</Result>
+		</TruthBooth>
+	</TruthBooths>
+	<MatchCeremonies>
+		<MatchCeremony>
+			<Matches>
+				<Pair>Aasha Paige</Pair>
+				<Pair>Amber Nour</Pair>
+				<Pair>Basit Jonathan</Pair>
+				<Pair>Brandon Remy</Pair>
+				<Pair>Danny Kai</Pair>
+				<Pair>Jasmine Jenna</Pair>
+				<Pair>Justin Max</Pair>
+				<Pair>Kari Kylie</Pair>
+			</Matches>
+			<Correct>2</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>
+				<Pair>Aasha Brandon</Pair>
+				<Pair>Amber Nour</Pair>
+				<Pair>Basit Jonathan</Pair>
+				<Pair>Danny Remy</Pair>
+				<Pair>Jasmine Justin</Pair>
+				<Pair>Jenna Kai</Pair>
+				<Pair>Kari Kylie</Pair>
+				<Pair>Max Paige</Pair>
+			</Matches>
+			<Correct>2</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>
+				<Pair>Aasha Max</Pair>
+				<Pair>Amber Paige</Pair>
+				<Pair>Basit Remy</Pair>
+				<Pair>Brandon Jonathan</Pair>
+				<Pair>Danny Kai</Pair>
+				<Pair>Jasmine Nour</Pair>
+				<Pair>Jenna Justin</Pair>
+				<Pair>Kari Kylie</Pair>
+			</Matches>
+			<Correct>2</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>
+				<Pair>Aasha Remy</Pair>
+				<Pair>Amber Nour</Pair>
+				<Pair>Basit Danny</Pair>
+				<Pair>Brandon Jasmine</Pair>
+				<Pair>Jenna Paige</Pair>
+				<Pair>Jonathan Kylie</Pair>
+				<Pair>Justin Max</Pair>
+				<Pair>Kai Kari</Pair>
+			</Matches>
+			<Correct>1</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>
+				<Pair>Aasha Kai</Pair>
+				<Pair>Amber Nour</Pair>
+				<Pair>Basit Remy</Pair>
+				<Pair>Brandon Max</Pair>
+				<Pair>Danny Kari</Pair>
+				<Pair>Jasmine Paige</Pair>
+				<Pair>Jenna Kylie</Pair>
+				<Pair>Jonathan Justin</Pair>
+			</Matches>
+			<Correct>0</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>
+				<Pair>Aasha Brandon</Pair>
+				<Pair>Amber Jenna</Pair>
+				<Pair>Basit Jonathan</Pair>
+				<Pair>Danny Kai</Pair>
+				<Pair>Jasmine Kylie</Pair>
+				<Pair>Justin Max</Pair>
+				<Pair>Kari Paige</Pair>
+				<Pair>Nour Remy</Pair>
+			</Matches>
+			<Correct>3</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>
+				<Pair>Aasha Brandon</Pair>
+				<Pair>Amber Danny</Pair>
+				<Pair>Basit Jonathan</Pair>
+				<Pair>Jasmine Kai</Pair>
+				<Pair>Jenna Paige</Pair>
+				<Pair>Justin Max</Pair>
+				<Pair>Kari Remy</Pair>
+				<Pair>Kylie Nour</Pair>
+			</Matches>
+			<Correct>3</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>
+				<Pair>Aasha Brandon</Pair>
+				<Pair>Amber Paige</Pair>
+				<Pair>Basit Jonathan</Pair>
+				<Pair>Danny Kylie</Pair>
+				<Pair>Jasmine Nour</Pair>
+				<Pair>Jenna Kari</Pair>
+				<Pair>Justin Max</Pair>
+				<Pair>Kai Remy</Pair>
+			</Matches>
+			<Correct>3</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>
+				<Pair>Aasha Brandon</Pair>
+				<Pair>Amber Kylie</Pair>
+				<Pair>Basit Jonathan</Pair>
+				<Pair>Danny Kai</Pair>
+				<Pair>Jasmine Nour</Pair>
+				<Pair>Jenna Paige</Pair>
+				<Pair>Justin Remy</Pair>
+				<Pair>Kari Max</Pair>
+			</Matches>
+			<Correct>6</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>
+				<Pair>Aasha Brandon</Pair>
+				<Pair>Amber Remy</Pair>
+				<Pair>Basit Jonathan</Pair>
+				<Pair>Danny Kai</Pair>
+				<Pair>Jasmine Nour</Pair>
+				<Pair>Jenna Paige</Pair>
+				<Pair>Justin Kylie</Pair>
+				<Pair>Kari Max</Pair>
+			</Matches>
+			<Correct>8</Correct>
+		</MatchCeremony>
+	</MatchCeremonies>
+</Properties>

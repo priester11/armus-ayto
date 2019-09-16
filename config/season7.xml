@@ -1,0 +1,119 @@
+<Properties>
+	<Keys>Andrew Brett Cam Daniel Kwasi Lewis Moe Shamoy Tevin Tomas Zak
+	</Keys>
+	<Values>Asia Bria Cali Jasmine Kayla Kenya Lauren Maria Morgan Nutsa
+		Samantha
+	</Values>
+	<TruthBooths>
+		<TruthBooth>
+			<Key>Tomas</Key>
+			<Value>Maria</Value>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Key>Andrew</Key>
+			<Value>Asia</Value>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Key>Shamoy</Key>
+			<Value>Maria</Value>
+			<Result>Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Key>Brett</Key>
+			<Value>Kenya</Value>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Key>Zak</Key>
+			<Value>Bria</Value>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Key>Brett</Key>
+			<Value>Cali</Value>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Key>Zak</Key>
+			<Value>Nutsa</Value>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Key>Tevin</Key>
+			<Value>Kenya</Value>
+			<Result>Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Key>Cam</Key>
+			<Value>Samantha</Value>
+			<Result>No Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Key>Brett</Key>
+			<Value>Nutsa</Value>
+			<Result>Match</Result>
+		</TruthBooth>
+		<TruthBooth>
+			<Key>Andrew</Key>
+			<Value>Cali</Value>
+			<Result>No Match</Result>
+		</TruthBooth>
+	</TruthBooths>
+	<MatchCeremonies>
+		<MatchCeremony>
+			<Matches>Lauren Cali Kayla Nutsa Asia Samantha Jasmine Maria Kenya
+				Morgan Bria
+			</Matches>
+			<Correct>3</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>Morgan Asia Kayla Nutsa Lauren Jasmine Bria Maria Kenya Cali
+				Samantha
+			</Matches>
+			<Correct>3</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>Lauren Cali Kayla Samantha Jasmine Asia Nutsa Maria Kenya
+				Bria Morgan
+			</Matches>
+			<Correct>3</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>Nutsa Kayla Asia Lauren Bria Kenya Samantha Maria Jasmine
+				Cali Morgan
+			</Matches>
+			<Correct>2</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>Samantha Nutsa Cali Bria Jasmine Lauren Asia Maria Kenya
+				Kayla Morgan
+			</Matches>
+			<Correct>4</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>Lauren Nutsa Kayla Samantha Asia Bria Jasmine Maria Kenya
+				Cali Morgan
+			</Matches>
+			<Correct>4</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>Lauren Nutsa Cali Samantha Asia Bria Jasmine Maria Kenya
+				Kayla Morgan
+			</Matches>
+			<Correct>4</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>Samantha Nutsa Lauren Asia Jasmine Bria Kayla Maria Kenya
+				Morgan Cali
+			</Matches>
+			<Correct>4</Correct>
+		</MatchCeremony>
+		<MatchCeremony>
+			<Matches>Cali Bria Morgan Lauren Nutsa Asia Kayla Maria Kenya Jasmine
+				Samantha</Matches>
+			<Correct>4</Correct>
+		</MatchCeremony>
+	</MatchCeremonies>
+</Properties>
